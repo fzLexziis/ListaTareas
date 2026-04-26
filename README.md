@@ -1,17 +1,76 @@
-# androidprojects
+# 📱 ListaTareas
 
-A new Flutter project.
+<p align="center">
+  <img src="assets/screenshot.png" width="250"/>
+</p>
 
-## Getting Started
+<p align="center">
+  Aplicación móvil para gestionar tareas de forma sencilla, rápida y eficiente.
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter">
+  <img src="https://img.shields.io/badge/Dart-Language-blue?logo=dart">
+  <img src="https://img.shields.io/badge/State%20Management-Provider-orange">
+  <img src="https://img.shields.io/badge/Storage-SharedPreferences-green">
+  <img src="https://img.shields.io/badge/Status-En%20desarrollo-yellow">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Descripción
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**ListaTareas** es una aplicación desarrollada en Flutter que permite a los usuarios organizar sus actividades diarias de manera eficiente mediante una interfaz simple e intuitiva.
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Agregar tareas  
+- ✅ Marcar como completadas  
+- ✅ Eliminar tareas  
+- ✅ Guardado automático  
+- 🔄 Próximamente: autenticación de usuario  
+
+---
+
+## 📸 Capturas
+
+<p align="center">
+  <img src="assets/screenshot.png" width="300"/>
+</p>
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- Flutter  
+- Dart  
+- Provider (gestión de estado)  
+- SharedPreferences (almacenamiento local)  
+
+---
+
+## ⚙️ Requisitos
+
+- Flutter SDK instalado  
+- Android Studio o Visual Studio Code  
+- Emulador o dispositivo físico  
+
+---
+
+## 📦 Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/TU_USUARIO/ListaTareas.git
+
+# Entrar al proyecto
+cd ListaTareas
+
+# Instalar dependencias
+flutter pub get
+
+# Ejecutar la app
+flutter run
+
