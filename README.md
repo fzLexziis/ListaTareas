@@ -1,8 +1,6 @@
 # 📱 ListaTareas
 
-<p align="center">
-  <img src="assets/screenshot.png" width="250"/>
-</p>
+
 
 <p align="center">
   Aplicación móvil para gestionar tareas de forma sencilla, rápida y eficiente.
@@ -31,14 +29,6 @@
 - ✅ Eliminar tareas  
 - ✅ Guardado automático  
 - 🔄 Próximamente: autenticación de usuario  
-
----
-
-## 📸 Capturas
-
-<p align="center">
-  <img src="assets/screenshot.png" width="300"/>
-</p>
 
 ---
 
@@ -73,4 +63,34 @@ flutter pub get
 
 # Ejecutar la app
 flutter run
+```
+---
+
+## 📁 Estructura del proyecto
+
+```bash
+lib/
+ ├── models/
+ ├── providers/
+ ├── screens/
+ ├── widgets/
+ └── main.dart
+```
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas:
+
+1. Fork del proyecto  
+2. Crear una rama (`git checkout -b feature/nueva-funcion`)  
+3. Realizar cambios y hacer commit (`git commit -m "Nueva función"`)  
+4. Subir cambios (`git push origin feature/nueva-funcion`)  
+5. Abrir un Pull Request
+
+
+## 👤 Créditos
+
+Desarrollado por **Alexis Espinoza**  
+
+🔗 https://github.com/fzLexziis
+
 
